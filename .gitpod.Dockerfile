@@ -73,17 +73,3 @@ RUN export PATH="${KREW_ROOT:-$HOME/.krew}/bin:$PATH" && \
 
 # Add aliases
 RUN echo 'alias k="kubectl"' >> /home/gitpod/.bashrc
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
